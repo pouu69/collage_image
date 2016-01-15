@@ -1,0 +1,16 @@
+body {
+    background-color: ivory;
+}
+#collage {
+    margin-top: 15px;
+}
+#collage canvas {
+    outline:1px solid red;
+    vertical-align: top;
+    display: block;
+    float: left;
+}
+.file_upload_div{
+    margin-bottom: 15px;
+    margin-top:15px;
+}
